@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Sacred Majestie, loyall reflections upon his glorious restauration, procession and coronation not forgetting the royal oake.</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35211</idno>
+            <idno type="STC">Wing C7305</idno>
+            <idno type="STC">ESTC R24106</idno>
+            <idno type="EEBO-CITATION">07951849</idno>
+            <idno type="OCLC">ocm 07951849</idno>
+            <idno type="VID">40681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1204:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Sacred Majestie, loyall reflections upon his glorious restauration, procession and coronation not forgetting the royal oake.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Crouch.</note>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:40681:1"/>
+            <pb facs="tcp:40681:1" rendition="simple:additions"/>
+            <head>TO HIS SACRED MAJESTIE: Loyall Reflections, UPON His Glorious <hi>Reſtauration, Proceſsion</hi> and <hi>Coronation; Not forgetting the ROYAL OAKE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+            </epigraph>
+            <lg>
+               <l>AScend thou <hi>Wiſer Phaeton,</hi> mount yet higher,</l>
+               <l>The World adores thy <hi>Light,</hi> dreads not thy <hi>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re;</hi>
+               </l>
+               <l>The golden Howers have nail'd thy Chariot wheels,</l>
+               <l>Thy <hi>Orbe</hi> is fixt, the <hi>Earth</hi> below thee reels.</l>
+               <l>
+                  <hi>Copernicus</hi> (all Metaphor) did preſage</l>
+               <l>The ſublunarie Motions of our Age.</l>
+               <l>Aſcend Great <hi>Brittains Emperour,</hi> not to own</l>
+               <l>An Uſurpation, but your <hi>Birth-right Throne;</hi>
+               </l>
+               <l>And yet a Throne not of an <hi>eaſie</hi> Riſe,</l>
+               <l>Whoſe <hi>Foot</hi> was Earth, whoſe <hi>Top</hi> was Paradiſe.</l>
+               <l>What Right, what Armes, what Prayers, long reacht in vain,</l>
+               <l>Is let down by a <hi>Providentiall</hi> Chain:</l>
+               <l>The Heavens (Great Sir,) weav'd your Imperial Robe,</l>
+               <l>Your Scepter fell from the Coeleſtial Globe,</l>
+               <l>What the proud <hi>Romans</hi> of their <hi>Ancyle</hi> feign</l>
+               <l>Is form'd a truth in your miraculous Reign.</l>
+               <pb facs="tcp:40681:2"/>
+               <l>That <hi>Scarlet</hi> Fabrick <hi>Romulus</hi> rear'd in blood,</l>
+               <l>Is ſhrunk; the firſt Foundation was not good.</l>
+               <l>Thus, <hi>Strafford,</hi> they that ſowed their Politick ſeeds</l>
+               <l>In thy rich Blood, receive no Crop but weeds!</l>
+               <l>
+                  <hi>Romes Caeſars</hi> chaind Kings mockt in publick ſhowes</l>
+               <l>VVhoſe <hi>fate</hi> (an eaſie Victory) crownd their browes:</l>
+               <l>Our <hi>Caeſar,</hi> vanquiſht by <hi>unequal</hi> VVars,</l>
+               <l>Conquerd the Conqueſt, and ſubdued his Stars.</l>
+               <l>All grant, Heaven wrought this wondrous Change; And now</l>
+               <l>To aſſert the truth <hi>religious</hi> Rebels bow.</l>
+               <l>
+                  <hi>Worſters</hi> miraculous eſcape ſpoke loud,</l>
+               <l>Had not Rebellion ears <hi>deaf,</hi> and hearts <hi>proud:</hi>
+               </l>
+               <l>A ſacred Brand ſnatcht from a field of fire,</l>
+               <l>Not to be <hi>unking'd,</hi> but be <hi>humbled</hi> higher;</l>
+               <l>When this ſtrange Reſcue made the Tyrant ſweat</l>
+               <l>Who vowed, without the King, 'twas no defeat.</l>
+               <l>Had onely put heaven to ſome new expence,</l>
+               <l>To ſanctifie <hi>long prophaned</hi> Providence.</l>
+               <l>Thou foundſt proud Monſter, one good Angel then</l>
+               <l>VVas a <hi>Life-guard</hi> above an <hi>Hoaſt</hi> of men.</l>
+               <l>Bleſt <hi>Oake!</hi> thou <hi>Monarch</hi> of the <hi>Britiſh</hi> Grove,</l>
+               <l>Sacred to CHARLES (thy Gueſt,) as once to <hi>Jove;</hi>
+               </l>
+               <l>Thou <hi>Bulwark</hi> of our little world! doſt ſtand,</l>
+               <l>Or <hi>move,</hi> impregnable, by Sea and Land;</l>
+               <pb facs="tcp:40681:2" rendition="simple:additions"/>
+               <l>Thou <hi>vegetive Soul!</hi> whoſe glory 'tis and pride</l>
+               <l>To ſuffer wounds or ſink, not to divide:</l>
+               <l>O were our Rationals hearted like thee,</l>
+               <l>VVe ſhould not ſuch Schiſms and Diviſions ſee:</l>
+               <l>VVhoſe branches <hi>Ogleby</hi> rich fancy made</l>
+               <l>Bear <hi>Crownes</hi> for Nuts; but thy beſt Fruit was <hi>ſhade:</hi>
+               </l>
+               <l>VVhen CHARLES lodg'd in thy Boughs, thou couldſt not want</l>
+               <l>Many <hi>degrees</hi> to be a <hi>ſenſible</hi> Plant.</l>
+               <l>O mayſt thou never be tranſplanted more,</l>
+               <l>Never touch Earth, except thy Native Shore!</l>
+               <l>When we are dead, mayſt thou ſurvive behind,</l>
+               <l>To tell the world how <hi>Stones</hi> and <hi>Oakes</hi> were kind,</l>
+               <l>When <hi>Men</hi> and <hi>Saints</hi> were <hi>Devils!</hi> O be thou</l>
+               <l>The King of woods, and let the <hi>Cedar</hi> bow;</l>
+               <l>Live, and henceforth the <hi>Tree</hi> of <hi>Life</hi> preſent,</l>
+               <l>Or if thou dyeſt, ſtand thy own Monument.</l>
+               <l>Hence prophane <hi>Ravens,</hi> never dare to Croak</l>
+               <l>Upon the ſtreamers of our Sacred <hi>Oake;</hi>
+               </l>
+               <l>Or when you dare, O let your ominous breath</l>
+               <l>Preſage not <hi>Mans</hi> or <hi>Beaſts,</hi> but your own death!</l>
+               <l>Whoſe Branches ſav'd three Kingdomes and a King,</l>
+               <l>Frequent this <hi>Tree</hi> ye ſweeteſt Birds that ſing.</l>
+               <l>Coy <hi>Daphne</hi> die to <hi>uſe;</hi> the <hi>Oake</hi> ſhall now</l>
+               <l>Crown both the Poets and the Conquerours brow.</l>
+               <pb facs="tcp:40681:3"/>
+               <l>Bleſt Tree! when Age has boar'd thy ſides, grown thin</l>
+               <l>Haſt nothing left thee, but bare ribs and skin,</l>
+               <l>Within thy <hi>Concave</hi> may thoſe ſpirits dwell,</l>
+               <l>And there fix an unerring Oracle.</l>
+               <l>Since (part o'th'world) thou too muſt mortall be,</l>
+               <l>Stand both alive and dead a <hi>Vocall</hi> Tree:</l>
+               <l>And let the Nations tremble at our <hi>Stroakes,</hi>
+               </l>
+               <l>Who have (what they all want) ſuch <hi>Hearts</hi> and <hi>Oakes.</hi>
+               </l>
+               <l>
+                  <hi>London!</hi> the worlds <hi>Metropolis,</hi> the <hi>Burſe</hi>
+               </l>
+               <l>Of all our <hi>Citties,</hi> and three Kingdomes <hi>Purſe!</hi>
+               </l>
+               <l>Thoſe high Triumphals on thy boſome built,</l>
+               <l>Reacht Heaven, and brought down Pardons for thy Guilt.</l>
+               <l>When did thy <hi>long dark Eye</hi> ſuch ſights behold?</l>
+               <l>When was thy Streets ſo <hi>pav'd</hi> with <hi>Silk</hi> and <hi>Gold?</hi>
+               </l>
+               <l>
+                  <hi>Phaebus</hi> breaks forth from his Imperial Tower,</l>
+               <l>Makes the whole <hi>Cittie Sun-ſhine</hi> for an Hower.</l>
+               <l>Heaven <hi>ſmiles</hi> through the <hi>moyſt</hi> Region of the Aire,</l>
+               <l>And <hi>ſpite</hi> of <hi>Lilly,</hi> two dayes muſt be Fair.</l>
+               <l>
+                  <hi>Lions</hi> and <hi>Rebels</hi> left (thoſe Beaſts of prey)</l>
+               <l>The Pomp proceeds ſerenely with the day.</l>
+               <l>What Majeſtie with it brings, the ſame it meets,</l>
+               <l>
+                  <hi>Glory</hi> and <hi>Triumph</hi> through the Impaled Streets:</l>
+               <l>A laden <hi>Cammel</hi> powres into his hand</l>
+               <l>The wealth of <hi>India</hi> both by Sea and Land.</l>
+               <pb facs="tcp:40681:3" rendition="simple:additions"/>
+               <l>A Gallant <hi>Firſt-Rate</hi> Ship, Rig'd up in view,</l>
+               <l>
+                  <hi>Threatens</hi> to make all that was <hi>painted,</hi> true.</l>
+               <l>Wonder not why our <hi>Navy</hi> ſaild alone,</l>
+               <l>The <hi>Dutch</hi> had <hi>ſtruck ſail,</hi> and were newly gone.</l>
+               <l>King, Peers, Knights, Gentry, Souldiery, all advance,</l>
+               <l>Cloath'd with the <hi>wealth</hi> of <hi>Turkie, Spain</hi> and <hi>France.</hi>
+               </l>
+               <l>Pearls, Rubies, Diamonds (or if richer Stone</l>
+               <l>There be) then, numerous as the Pebbles, ſhone.</l>
+               <l>Th'Amazed People on their Scaffolds ſit,</l>
+               <l>See bright <hi>Stars</hi> at Noon-day <hi>without a Pit.</hi>
+               </l>
+               <l>The Globe was now inverted, and the Spheare</l>
+               <l>Adorn'd with Stars, was not above, but here.</l>
+               <l>But Nobler Lights (pierce not the Eye but Mind)</l>
+               <l>Like Conſtellations from the windows ſhind!</l>
+               <l>While buſie ſcruples gazing Forreigners vex,</l>
+               <l>Which were thoſe Conquerors, Male or Female Sex.</l>
+               <l>The brave Horſe marching in their Plumes ſo gay,</l>
+               <l>
+                  <hi>Flowr'd</hi> all the Streets, and <hi>Tulipt</hi> up the way.</l>
+               <l>Did ever Nation laden with ſuch ſpoils</l>
+               <l>Return triumphing from their Civil Broils?</l>
+               <l>Thus <hi>Headleſs England</hi> fights it ſelf at length</l>
+               <l>Into a Kingdom, <hi>weakned</hi> into ſtrength!</l>
+               <l>Sick bodies bleed; and ſo recover health,</l>
+               <l>And Thrones riſe high <hi>bas'd</hi> on a Common-wealth.</l>
+               <pb facs="tcp:40681:4"/>
+               <l>Our <hi>Ruine</hi> is <hi>Reſtor'd</hi> with gain not Loſs,</l>
+               <l>
+                  <hi>Cheap-ſide</hi> all Gold to <hi>recompence</hi> the <hi>Croſs.</hi>
+               </l>
+               <l>Fair <hi>Concord</hi> here, the Churches Embleme ſtands,</l>
+               <l>Then <hi>Plentie</hi> flowes from <hi>Kings</hi> and <hi>Biſhops</hi> Lands;</l>
+               <l>But our <hi>poor Mother-Church</hi> lies ſtill heart ſick</l>
+               <l>Rent in the <hi>Middle,</hi> and turns <hi>Schiſmaticke;</hi>
+               </l>
+               <l>Fallen with a fright, when that <hi>uſurping Gog</hi>
+               </l>
+               <l>Threatned to <hi>ſell</hi> it for a <hi>Synagogue;</hi>
+               </l>
+               <l>Thanks Anabaptiſts, who then powerful, ſtickle</l>
+               <l>Preſerve it for a <hi>Free-will Conventicle:</hi>
+               </l>
+               <l>Had not the old <hi>Saints</hi> ſtood (propt up by <hi>Them</hi>)</l>
+               <l>
+                  <hi>London</hi> had been a new <hi>Jeruſalem.</hi>
+               </l>
+               <l>Better <hi>twice dipt,</hi> then not at all, to admit</l>
+               <l>Some change, rather then quite <hi>
+                     <g ref="char:V">Ʋ</g>nchriſtian</hi> it.</l>
+               <l>But what <hi>Paul loſt,</hi> was all to <hi>Peter paid,</hi>
+               </l>
+               <l>For one whole day <hi>The chief Apostle</hi> made:</l>
+               <l>Whoſe Net was chang'd to Copes and Sattin Gowns,</l>
+               <l>Fit to preſent the Second CHARLES <hi>fowre</hi> Crowns;</l>
+               <l>Who more concern'd for Piety then State,</l>
+               <l>Upon his <hi>Throne</hi> like a good <hi>Patriarch</hi> ſate:</l>
+               <l>As if he had this <hi>painted</hi> world forſook,</l>
+               <l>Had not a <hi>Scepter,</hi> but a <hi>Croſier</hi> took.</l>
+               <l>The holy Oyntment, bath'd his Limbs and Head,</l>
+               <l>Shall <hi>ſent</hi> his ſacred Aſhes, when he is dead:</l>
+               <l>Twas not its Native vertue I preſume,</l>
+               <pb facs="tcp:40681:4" rendition="simple:additions"/>
+               <l>But His <hi>Divinity</hi> heightened the perfume.</l>
+               <l>May that rich Harmony Ecchoed from two Sphears,</l>
+               <l>Till Heaven exchange it, ſtill poſſeſs his Ears!</l>
+               <l>
+                  <hi>Biſhops</hi> and <hi>Presbyters,</hi> Cement for ſhame:</l>
+               <l>Differenc'd, <hi>like mankind</hi> onely by a name:</l>
+               <l>I fear in Heaven they hardly will agree,</l>
+               <l>Who divide in this high Solemnitie.</l>
+               <l>
+                  <hi>Munday</hi> we grant was proudly rich and gay,</l>
+               <l>But <hi>Tueſday</hi> was the <hi>Sacred Holyday;</hi>
+               </l>
+               <l>Such Glorious Sights was never ſeen before;</l>
+               <l>And, <hi>without Treaſon,</hi> muſt be <hi>wiſht</hi> no more.</l>
+               <l>Were not <hi>Rome kind,</hi> we ſhould live long, to ſee</l>
+               <l>
+                  <hi>Two Ages,</hi> and a <hi>double Jubilee!</hi>
+               </l>
+               <l>We wiſh great <hi>Spain</hi> proſperity and health,</l>
+               <l>Though firſt he <hi>Catholickt</hi> our Common-wealth;</l>
+               <l>May <hi>Flanders</hi> flouriſh, be for ever bleſt,</l>
+               <l>Which lodg'd, what <hi>France</hi> expos'd, an <hi>Angel-Gueſt.</hi>
+               </l>
+               <l>Tremble proud <hi>France,</hi> (th'haſt loſt thy <hi>Politick Twins</hi>)</l>
+               <l>Leaſt <hi>England</hi> ſcourge thee for thy <hi>Cardinal ſins.</hi>
+               </l>
+               <l>Let <hi>Holland</hi> link with <hi>Spain</hi> to deſperate Ends,</l>
+               <l>Once their <hi>poor Rebels,</hi> now their <hi>proudeſt</hi> Friends:</l>
+               <l>If weak <hi>Rebellion,</hi> if a <hi>Rump-deſigne</hi>
+               </l>
+               <l>Could <hi>cool</hi> the furie of their <hi>Brandee-wine;</hi>
+               </l>
+               <l>What will the whole <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces</hi> doe,</l>
+               <l>When their <hi>three Neighbours</hi> are United too?</l>
+               <pb facs="tcp:40681:5"/>
+               <l>If <hi>Cromwell (Mazarines</hi> Ape) could act ſo much,</l>
+               <l>CHARLES and his Whales will ſwallow up the <hi>Dutch.</hi>
+               </l>
+               <l>Had they not once a kind <hi>Protectrice</hi> found,</l>
+               <l>The <hi>Begging States</hi> had been ſurpriz'd or drownd:</l>
+               <l>But ſince their fore-heads weare the <hi>Proteſtant name,</hi>
+               </l>
+               <l>I wiſh them neither <hi>Victory</hi> nor <hi>ſhame.</hi>
+               </l>
+               <l>O ye <hi>Phanaticks!</hi> whoſe hot <hi>Brimſtone</hi> zeal</l>
+               <l>Produc'd Confuſion for a Common-weal;</l>
+               <l>Convinc'd, if not by Reaſon, Sight, nor Sence,</l>
+               <l>Yet by your <hi>great Diana</hi> Providence;</l>
+               <l>Sit down, and change the Scene of your Affairs</l>
+               <l>To right Ends; <hi>Model</hi> not your <hi>Armes,</hi> but <hi>Prayers;</hi>
+               </l>
+               <l>Embrace your King, His Royal mercy prize,</l>
+               <l>And then be <hi>rich Phanaticks,</hi> though not wiſe.</l>
+               <l>Now Gracious Soveraign, the worlds Juſt <hi>Love</hi> and <hi>Fear,</hi>
+               </l>
+               <l>The <hi>Jubilee</hi> and <hi>Triumph</hi> of this Year!</l>
+               <l>Ride on; Let both Your <hi>Friends,</hi> and <hi>Enemies</hi> know</l>
+               <l>Your <hi>Glories</hi> were but <hi>Shadowed</hi> the laſt <hi>Show:</hi>
+               </l>
+               <l>You ſhall act <hi>Wonders</hi> ſtill, in <hi>War</hi> or <hi>Peace,</hi>
+               </l>
+               <l>But from Your Coronation <hi>Miracles</hi> ceaſe:</l>
+               <l>If yet more <hi>Miracles</hi> in Times <hi>womb</hi> remain,</l>
+               <l>They will be <hi>maim'd</hi> if not born in your Reign.</l>
+               <l>Heaven has unveild one; That <hi>Meridian Star,</hi>
+               </l>
+               <l>Shin'd at your <hi>Birth,</hi> needs no <hi>Interpreter!</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J. Crowch.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40681:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
